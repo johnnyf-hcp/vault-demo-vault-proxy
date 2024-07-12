@@ -32,3 +32,5 @@
 2024-07-12T22:45:04.074+0800 [ERROR] proxy.auth.handler: error authenticating: error="Put \"http://127.0.0.1:8200/v1/auth/approle/login\": dial tcp 127.0.0.1:8200: connect: connection refused" backoff=760ms
 2024-07-12T22:45:04.835+0800 [INFO]  proxy.auth.handler: authenticating
 2024-07-12T22:45:04.836+0800 [ERROR] proxy.auth.handler: error authenticating: error="Put \"http://127.0.0.1:8200/v1/auth/approle/login\": dial tcp 127.0.0.1:8200: connect: connection refused" backoff=760ms
+2024-07-12T22:45:06.341+0800 [INFO]  proxy.auth.handler: authenticating
+2024-07-12T22:45:06.341+0800 [ERROR] proxy.auth.handler: error authenticating: error="Put \"http://127.0.0.1:8200/v1/auth/approle/login\": dial tcp 127.0.0.1:8200: connect: connection refused" backoff=1.5s
